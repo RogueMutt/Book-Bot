@@ -1,2 +1,2 @@
 # Book-Bot
-My assignment for Boot.dev
+BookBot is my first project!
